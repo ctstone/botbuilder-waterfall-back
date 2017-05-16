@@ -1,0 +1,20 @@
+{
+  "name": "botbuilder-waterfall-back",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder-calling": "^3.0.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.0.35",
+    "typescript": "^2.3.2"
+  }
+}
